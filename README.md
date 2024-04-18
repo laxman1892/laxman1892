@@ -36,7 +36,7 @@
 ###
 
 
-<img align="right" src="https://giphy.com/embed/LPgFwCQg4HQBvPihcn" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
+<img align="right" src="https://giphy.com/embed/LPgFwCQg4HQBvPihcn" height="150" />
 
 ###
 
