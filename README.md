@@ -35,8 +35,7 @@
 
 ###
 
-
-<img src="https://giphy.com/embed/LPgFwCQg4HQBvPihcn" height="150" /><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-50th-anniversary-LPgFwCQg4HQBvPihcn">via GIPHY</a></p>
+<img align="right" height="150" src="https://giphy.com/embed/LPgFwCQg4HQBvPihcn"  />
 
 ###
 
