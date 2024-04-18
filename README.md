@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/LPgFwCQg4HQBvPihcn"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
