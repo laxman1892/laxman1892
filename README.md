@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/laxman1892/laxman1892/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/laxman1892/laxman1892/output/snake.svg" alt="Snake animation" />
 
 ###
 
